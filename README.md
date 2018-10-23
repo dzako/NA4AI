@@ -1,5 +1,8 @@
 # Numerical Analysis for Artificial Intelligence UCSD summer course CSE190, Jacek Cyranka
 
+This repository contains course materials from the 
+"Numerical Analysis for Artificial Intelligence" course I presented at 
+UCSD, CSE department during Summer session 2018.
 
 ## course syllabus
 * **Week 1,2** Review of Programming in Python+NumPy+IPython notebook and Calculus and Linear Algebra topics
