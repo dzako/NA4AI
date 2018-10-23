@@ -1,4 +1,4 @@
-# Numerical Analysis for Artificial Intelligence UCSD summer course CSE190, Jacek Cyranka
+# Numerical Analysis for Artificial Intelligence, Jacek Cyranka
 
 This repository contains course materials from the 
 "Numerical Analysis for Artificial Intelligence" course I presented at 
